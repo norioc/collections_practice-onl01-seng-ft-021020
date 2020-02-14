@@ -39,4 +39,11 @@ def sum_array(array)
   array.inject (:+)
 end
 
+def add_s(array)
+  array.each_with_index 
+
+
+
+
+end
 
